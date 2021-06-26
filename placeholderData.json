@@ -1,0 +1,50 @@
+[
+        {
+            "title": "Erva do Diabo",
+            "author": "Eduardo Castaneda",
+            "description": "O encontro entre um mestrando e um xamã, esta é uma obra essencial na contracultura dos anos 1960.<br /><br />Publicado pela primeira vez na década de 1960, A erva do diabo marcou uma geração e até hoje desperta grande interesse em quem procura interpretações alternativas à realidade em que vivemos, ou mesmo relatos antropológicos de tribos milenares da América Central.",
+            "image": "http://localhost:3001/images/carlos_castaneda_erva_do_diabo.jpg"
+        },
+        {
+            "title": "Complete Poems",
+            "author": "Edward Cummings",
+            "description": "With a new introduction by Pulitzer Prize winning poet Stephen Dunn, this redesigned and fully reset edition of Complete Poems collects and presents all the poems published or designated for publication by E. E. Cummings in his lifetime.",
+            "image": "http://localhost:3001/images/edward_cummings_complete_poems.jpg"
+        },
+        {
+            "title": "Brave New World",
+            "author": "George Orwell",
+            "description": "Brave New World is a dystopian social science fiction novel by English author Aldous Huxley, written in 1931 and published in 1932.<br /><br />Largely set in a futuristic World State, whose citizens are environmentally engineered into an intelligence-based social hierarchy, the novel anticipates huge scientific advancements in reproductive technology, sleep-learning, psychological manipulation and classical conditioning...",
+            "image": "http://localhost:3001/images/george_orwell_brave_new_world.jpg"
+        },
+        {
+            "title": "On The Road",
+            "author": "Jack Korouac",
+            "description": "On the Road is a 1957 novel by American writer Jack Kerouac, based on the travels of Kerouac and his friends across the United States.<br /><br />It is considered a defining work of the postwar Beat and Counterculture generations, with its protagonists living life against a backdrop of jazz, poetry, and drug use.",
+            "image": "http://localhost:3001/images/jack_kerouac_on_the_road.jpg"
+        },
+        {
+            "title": "A Metamorfose",
+            "author": "Kafka",
+            "description": "Em 'A metamorfose' o leitor é colocado diante de um caixeiro-viajante - Gregor Samsa - transformado em um inseto monstruoso.<br /><br />A partir daí, a história é narrada associando o inverossímil e o senso de humor ao que é trágico, grotesco e cruel na condição humana.",
+            "image": "http://localhost:3001/images/kafka_a_metamorfose.jpg"
+        },
+        {
+            "title": "Farenheit 451",
+            "author": "Ray Bradbury",
+            "description": "Ray Bradbury’s internationally acclaimed novel Fahrenheit 451 is a masterwork of twentieth-century literature set in a bleak, dystopian future.<br /><br />Guy Montag is a fireman. In his world, where television rules and literature is on the brink of extinction, firemen start fires rather than put them out.<br /><br />His job is to destroy the most illegal of commodities, the printed book, along with the houses in which they are hidden.",
+            "image": "http://localhost:3001/images/ray_bradbury_fahrenheit_451.jpg"
+        },
+        {
+            "title": "Walden: Life In The Woods",
+            "author": "H. D. Thoreau",
+            "description": "Walden is a book by American transcendentalist writer Henry David Thoreau.<br /><br />The text is a reflection upon simple living in natural surroundings.<br /><br />The work is part personal declaration of independence, social experiment, voyage of spiritual discovery, satire, and—to some degree—a manual for self-reliance.",
+            "image": "http://localhost:3001/images/thoreau_walden_life_in_the_woods.jpg"
+        },
+        {
+            "title": "Baudolino",
+            "author": "Umberto Eco",
+            "description": "It is April 1204, and Constantinople, the splendid capital of the Byzantine Empire, is being sacked and burned by the knights of the Fourth Crusade. Amid the carnage and confusion, one Baudolino saves a Byzantine historian and high court official from certain death at the hands of the crusading warriors, and proceeds to tell his own story",
+            "image": "http://localhost:3001/images/umberto_eco_baudolino.jpg"
+        }
+]
